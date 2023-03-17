@@ -1,0 +1,22 @@
+.formation {
+    margin-top: 6rem;
+    padding-top: 2rem;
+    text-align: center;
+    background-color: #EAF2FD;
+    ;
+}
+
+.formation__title {
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+}
+
+.formation__box {
+    padding: 2rem 0;
+    display: flex;
+    justify-content: center;
+    gap: 4rem;
+    flex-wrap: wrap;
+}
